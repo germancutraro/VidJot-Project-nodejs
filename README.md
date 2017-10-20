@@ -2,6 +2,13 @@
 
 Ideas for youtube list app
 
+## Usage
+If you are in local mode use:
+
+```
+npm run dev
+```
+
 ## Instalation
 
 Install all dependencies
