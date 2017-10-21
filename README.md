@@ -17,12 +17,6 @@ Install all dependencies
 npm install
 ```
 
-Run app
-
-```
-npm start
-```
-
 ## Built With
 
 * Node.Js
